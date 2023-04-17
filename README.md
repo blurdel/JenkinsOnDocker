@@ -1,2 +1,2 @@
 # JenkinsDocker
-Jenkins running in a Docker container, as root
+Jenkins, maven, jdk17 running in a Docker container, as root
